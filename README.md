@@ -1,4 +1,5 @@
 # DIGITAL-FILTERDESIGN
+
 COMPANY :CODTECH IT SOLUTIONS
 
 NAME :SARUMATHI M
@@ -23,7 +24,11 @@ The testbench tb_fir_filter verifies the design by providing a sequence of input
 
 output:
 
+<img width="1360" height="634" alt="Image" src="https://github.com/user-attachments/assets/2964f48d-a815-4d2c-af5f-7f0fd422af01" />
 
+
+
+<img width="1362" height="635" alt="Image" src="https://github.com/user-attachments/assets/d5d0c86d-e983-4946-93cc-c6f218840683" />
 
 
 
